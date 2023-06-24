@@ -37,7 +37,7 @@ With the completion of this project, I have decided to move on to my next challe
 
 - Project: Colorizing Black and White Images
 - Challenge: #100days25projectchallenge
-- Repository: [GitHub](https://github.com/yourusername/colorizing-black-and-white-images)
+- Repository: [GitHub](https://github.com/ChildEater69/colorizing-black-and-white-images)
 
 ---
 
@@ -55,17 +55,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/
 
 [![Day 1 Thumbnail](https://img.youtube.com/vi/KVTszH6hk38/0.jpg)](https://youtu.be/KVTszH6hk38)
 
-#### Day 1 Update Image Comparison:
-
-[![Day 1 Update Image Comparison](https://img.youtube.com/vi/KVTszH6hk38/1.jpg)](https://youtu.be/KVTszH6hk38)
 
 ### Day 2 Video: [YouTube](https://youtu.be/aiKEwLzLf1w)
 
 [![Day 2 Thumbnail](https://img.youtube.com/vi/aiKEwLzLf1w/0.jpg)](https://youtu.be/aiKEwLzLf1w)
 
-#### Day 2 Update Image Comparison:
-
-[![Day 2 Update Image Comparison](https://img.youtube.com/vi/aiKEwLzLf1w/1.jpg)](https://youtu.be/aiKEwLzLf1w)
 
 ## Download Models and Prediction Folder
 
