@@ -18,6 +18,8 @@ To enhance the colorization process, I considered two options. First, I explored
 
 Additionally, I experimented with various filters from the CV2 library to test alternative colormaps, seeking to enhance the visual impact of the colorized images. Moving forward, I will continue exploring the pretrained model by Zhang for improved results and conduct further experiments with larger datasets and different training approaches. #NextSteps #Optimism
 
+[View Day 1 LinkedIn Post](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_project-2-day-1-colorization-of-the-black-activity-7063898264240066561-zSCX?utm_source=share&utm_medium=member_desktop)
+
 ### Day 2 Update (Actually Day 6 of my series of 25 Projects in 100 days)
 
 Today, I focused on refining the colorization process for black and white images. To do this, I decided to use a smaller dataset consisting of 1000 images of airplanes. This focused dataset allowed me to explore the capabilities of autoencoders, specifically the U-Net architecture commonly used for image segmentation. #Colorization #Autoencoders #U-NetArchitecture
@@ -32,6 +34,8 @@ To evaluate the performance of both models, I compared the colorized images prod
 
 With the completion of this project, I have decided to move on to my next challenge. After my exams, I plan to explore colorizing videos from the black and white era. This new endeavor will allow me to apply the techniques I have learned and expand my knowledge further. The start date for this next project is set for June 3rd. #NextChallenge #VideoColorization
 #project #ai #deeplearning
+
+[View Day 2 LinkedIn Post](https://www.linkedin.com/posts/avdhesh-kumar-sharma-751a49225_project-2-day-2-colorization-of-black-white-activity-7064231735219093504-gLvD?utm_source=share&utm_medium=member_desktop)
 
 ## Project Details
 
