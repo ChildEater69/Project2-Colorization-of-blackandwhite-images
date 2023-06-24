@@ -37,7 +37,7 @@ With the completion of this project, I have decided to move on to my next challe
 
 - Project: Colorizing Black and White Images
 - Challenge: #100days25projectchallenge
-- Repository: [GitHub](https://github.com/ChildEater69/colorizing-black-and-white-images)
+- Repository: [GitHub](https://github.com/ChildEater69/Project2-Colorization-of-blackandwhite-images)
 
 ---
 
@@ -47,7 +47,7 @@ Stay tuned for more updates as I continue my coding journey! Let's learn, build,
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/) for further discussions and collaborations. Let's connect and inspire each other! 🤝🌟
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/avdhesh-kumar-sharma-751a49225/) for further discussions and collaborations. Let's connect and inspire each other! 🤝🌟
 
 ## Videos
 
